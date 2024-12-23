@@ -1,2 +1,2 @@
-# roche_bioinfo
+# Find a median
 code for bioinformatics engineer role
