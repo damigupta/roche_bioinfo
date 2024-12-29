@@ -90,7 +90,7 @@ This will use a list `l` of the largest `x` items in the dataset.
 4. Continue until the numbers of items dropped have reached the median index.
 
 I have included a pseudocode implementation of this. It is incomplete, and will not run, but it gives a rough idea
-of an implementation.
+of an implementation. (See [code](./src/calculate_median_top_x.py))
 
 
 
